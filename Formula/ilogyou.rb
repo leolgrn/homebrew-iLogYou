@@ -1,9 +1,9 @@
 class Ilogyou < Formula
   desc "Swift Framework for membership handling"
   homepage "https://github.com/leolgrn/ilogyou/"
-  url "https://github.com/leolgrn/ilogyou/releases/download/103828-22022019/ilogyou.tar.gz"
+  url "https://github.com/leolgrn/ilogyou/releases/download/145200-22022019/ilogyou.tar.gz"
   version "1.0.0"
-  sha256 "851b3abbc72b28fb42f4777e70cd5480e988a2dc421185c038eac7ae361b77e3"
+  sha256 "96b8197d5d85f0e173954965c862eac7bccedd47772fce866387a6d780521c5a"
 
   def install
     bin.install "ilogyou"
